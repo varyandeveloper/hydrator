@@ -10,7 +10,6 @@
             "email": "developervaryan@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.2"
     }
