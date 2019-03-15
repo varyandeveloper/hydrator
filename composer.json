@@ -1,0 +1,16 @@
+{
+    "name": "varyans/hydrator",
+    "description": "Reflection Hydrator",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Varazdat Stepanyan",
+            "email": "developervaryan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    }
+}
