@@ -1,6 +1,7 @@
 {
     "name": "varyans/hydrator",
     "description": "Reflection Hydrator",
+    "homepage": "https://github.com/varyandeveloper/hydrator",
     "type": "package",
     "license": "MIT",
     "authors": [
