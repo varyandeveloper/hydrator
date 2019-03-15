@@ -10,6 +10,11 @@
             "email": "developervaryan@gmail.com"
         }
     ],
+    "autoload-dev": {
+        "psr-4": {
+            "VarYans\\Hydrator\\": "src/"
+        }
+    },
     "require": {
         "php": ">=7.2"
     }
